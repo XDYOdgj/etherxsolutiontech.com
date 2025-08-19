@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://etherxsolutiontech.com/sitemap.xml
